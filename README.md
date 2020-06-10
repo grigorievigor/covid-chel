@@ -26,3 +26,7 @@ all.json.bz — то же самое, сжатое.
 На случай противоречия в данных, заведны поля count_orig, count_min,
 count_max. Поле count заполняется только если противоречий нет.
 Файлы R формируются из предположения, что правильное число count_min.
+
+Эта числа выложены также на
+https://docs.google.com/spreadsheets/d/1v5Ftu-E-F2zsJHrU2uvTnPw4Axmz0FGU7oa6Hx3fOpY/edit?usp=sharing
+(все сомнительные места помечены минусом перед числом).
