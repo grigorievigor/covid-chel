@@ -5804,5 +5804,270 @@
          "count_min": 17,
          "count_orig": 17
       }
+   },
+   "2020-06-11": {
+      "total": {
+         "count_max": 4247,
+         "count_min": 4245,
+         "count_orig": 4247
+      },
+      "Агаповский муниципальный район": {
+         "count": 34,
+         "count_max": 34,
+         "count_min": 34,
+         "count_orig": 34
+      },
+      "Аргаяшский муниципальный район": {
+         "count": null,
+         "count_max": 64,
+         "count_min": 62,
+         "count_orig": 64
+      },
+      "Ашинский муниципальный район": {
+         "count": 82,
+         "count_max": 82,
+         "count_min": 82,
+         "count_orig": 82
+      },
+      "Брединский муниципальный район": {
+         "count": 21,
+         "count_max": 21,
+         "count_min": 21,
+         "count_orig": 21
+      },
+      "Варненский муниципальный район": {
+         "count": 4,
+         "count_max": 4,
+         "count_min": 4,
+         "count_orig": 4
+      },
+      "Верхнеуральский муниципальный район": {
+         "count": 64,
+         "count_max": 64,
+         "count_min": 64,
+         "count_orig": 64
+      },
+      "Верхнеуфалейский городской округ": {
+         "count": 15,
+         "count_max": 15,
+         "count_min": 15,
+         "count_orig": 15
+      },
+      "Еманжелинский муниципальный район": {
+         "count": 13,
+         "count_max": 13,
+         "count_min": 13,
+         "count_orig": 13
+      },
+      "Еткульский муниципальный район": {
+         "count": 4,
+         "count_max": 4,
+         "count_min": 4,
+         "count_orig": 4
+      },
+      "Златоустовский городской округ": {
+         "count": 526,
+         "count_max": 526,
+         "count_min": 526,
+         "count_orig": 526
+      },
+      "Карабашский городской округ": {
+         "count": 1,
+         "count_max": 1,
+         "count_min": 1,
+         "count_orig": 1
+      },
+      "Карталинский муниципальный район": {
+         "count": 22,
+         "count_max": 22,
+         "count_min": 22,
+         "count_orig": 22
+      },
+      "Каслинский муниципальный район": {
+         "count": 24,
+         "count_max": 24,
+         "count_min": 24,
+         "count_orig": 24
+      },
+      "Катав-Ивановский муниципальный район": {
+         "count": 32,
+         "count_max": 32,
+         "count_min": 32,
+         "count_orig": 32
+      },
+      "Кизильский муниципальный район": {
+         "count": 59,
+         "count_max": 59,
+         "count_min": 59,
+         "count_orig": 59
+      },
+      "Копейский городской округ": {
+         "count": 52,
+         "count_max": 52,
+         "count_min": 52,
+         "count_orig": 52
+      },
+      "Коркинский муниципальный район": {
+         "count": 31,
+         "count_max": 31,
+         "count_min": 31,
+         "count_orig": 31
+      },
+      "Красноармейский муниципальный район": {
+         "count": 24,
+         "count_max": 24,
+         "count_min": 24,
+         "count_orig": 24
+      },
+      "Кунашакский муниципальный район": {
+         "count": 51,
+         "count_max": 51,
+         "count_min": 51,
+         "count_orig": 51
+      },
+      "Кусинский муниципальный район": {
+         "count": 23,
+         "count_max": 23,
+         "count_min": 23,
+         "count_orig": 23
+      },
+      "Кыштымский городской округ": {
+         "count": 17,
+         "count_max": 17,
+         "count_min": 17,
+         "count_orig": 17
+      },
+      "Локомотивный городской округ": {
+         "count": 2,
+         "count_max": 2,
+         "count_min": 2,
+         "count_orig": 2
+      },
+      "Магнитогорский городской округ": {
+         "count": 886,
+         "count_max": 886,
+         "count_min": 886,
+         "count_orig": 886
+      },
+      "Миасский городской округ": {
+         "count": 373,
+         "count_max": 373,
+         "count_min": 373,
+         "count_orig": 373
+      },
+      "Нагайбакский муниципальный район": {
+         "count": 8,
+         "count_max": 8,
+         "count_min": 8,
+         "count_orig": 8
+      },
+      "Нязепетровский муниципальный район": {
+         "count": 8,
+         "count_max": 8,
+         "count_min": 8,
+         "count_orig": 8
+      },
+      "Озерский городской округ": {
+         "count": 46,
+         "count_max": 46,
+         "count_min": 46,
+         "count_orig": 46
+      },
+      "Октябрьский муниципальный район": {
+         "count": 18,
+         "count_max": 18,
+         "count_min": 18,
+         "count_orig": 18
+      },
+      "Пластовский муниципальный район": {
+         "count": 7,
+         "count_max": 7,
+         "count_min": 7,
+         "count_orig": 7
+      },
+      "Саткинский муниципальный район": {
+         "count": 77,
+         "count_max": 77,
+         "count_min": 77,
+         "count_orig": 77
+      },
+      "Снежинский городской округ": {
+         "count": 7,
+         "count_max": 7,
+         "count_min": 7,
+         "count_orig": 7
+      },
+      "Сосновский муниципальный район": {
+         "count": 73,
+         "count_max": 73,
+         "count_min": 73,
+         "count_orig": 73
+      },
+      "Трехгорный городской округ": {
+         "count": 15,
+         "count_max": 15,
+         "count_min": 15,
+         "count_orig": 15
+      },
+      "Троицкий городской округ": {
+         "count": 56,
+         "count_max": 56,
+         "count_min": 56,
+         "count_orig": 56
+      },
+      "Троицкий муниципальный район": {
+         "count": 17,
+         "count_max": 17,
+         "count_min": 17,
+         "count_orig": 17
+      },
+      "Увельский муниципальный район": {
+         "count": 10,
+         "count_max": 10,
+         "count_min": 10,
+         "count_orig": 10
+      },
+      "Уйский муниципальный район": {
+         "count": 4,
+         "count_max": 4,
+         "count_min": 4,
+         "count_orig": 4
+      },
+      "Усть-Катавский городской округ": {
+         "count": 47,
+         "count_max": 47,
+         "count_min": 47,
+         "count_orig": 47
+      },
+      "Чебаркульский городской округ": {
+         "count": 19,
+         "count_max": 19,
+         "count_min": 19,
+         "count_orig": 19
+      },
+      "Чебаркульский муниципальный район": {
+         "count": 18,
+         "count_max": 18,
+         "count_min": 18,
+         "count_orig": 18
+      },
+      "Челябинский городской округ": {
+         "count": 1359,
+         "count_max": 1359,
+         "count_min": 1359,
+         "count_orig": 1359
+      },
+      "Чесменский муниципальный район": {
+         "count": 17,
+         "count_max": 17,
+         "count_min": 17,
+         "count_orig": 17
+      },
+      "Южноуральский городской округ": {
+         "count": 17,
+         "count_max": 17,
+         "count_min": 17,
+         "count_orig": 17
+      }
    }
 }
